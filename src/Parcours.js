@@ -28,7 +28,7 @@ const parcours =
         <div style ={divStyle}>
             <h5 style={underline}>Web Developper <span style ={spanStyle}>05/2021 - En cours</span> </h5>
             <p>
-              Formation Integrateur/Developper Web a la <b>Web@cademie by Epitech</b> à Paris. 
+              Integrateur/Developper Web a la <b>Web@cademie by Epitech</b> à Paris. 
             </p>
             <h5 style={underline}>Licence Sciences pour l'ingénieur <span style ={spanStyle}>09/2018 - 06/2019</span> </h5>
             <p>

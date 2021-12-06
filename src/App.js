@@ -28,7 +28,7 @@ class App extends Component {
           id="section3"
         />
         <Section
-          title="Quelques projets réalisés"
+          title="Projets réalisés"
           subtitle={projet}
           id="section4"
         />

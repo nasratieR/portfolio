@@ -25,6 +25,19 @@ const para={
     marginTop:"5%",
     color:"grey",
 }
+const cite ={
+    textAlign:'center',
+    boxShadow:'3px 1px 10px lightgrey',
+    fontFamily:'cursive',
+    fontSize:'20px',
+    paddingTop:'2%'
+
+}
+const auteur={
+    textAlign:'right',
+    fontFamily:'sans-serif',
+    fontSize:'14px'
+}
 const about = 
 <div>
     <Fade top>
@@ -45,6 +58,7 @@ const about =
     <Fade right>
         <h2 style={grey}>Qui suis-je ?</h2>
         <p>Salut, moi c'est Nasratie, étudiante à la Webacademie by Epitech en <b>recherche d'alternance</b> en tant que developpeuse web.</p>
+       
         <Row>
             <Col>
             <a href={Cv} download ><Tada><Button variant="outline-warning">Cv PDF</Button> </Tada></a> 
@@ -58,6 +72,17 @@ const about =
         </Row>
     </Fade> 
     </Col>
+    <Row>
+        <Fade right>
+            <figure style={cite}>
+    <blockquote>
+        <p>Ne sois pas original, sois unique.</p>
+    </blockquote>
+    <figcaption style={auteur}><i>-Jean Cocteau</i></figcaption>
+</figure>
+        </Fade>
+        
+        </Row>
   </Row>
 </Container>
     </div>

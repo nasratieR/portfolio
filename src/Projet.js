@@ -43,7 +43,7 @@ const projet =
             <Card.Body>
             <Card.Title>Snapchat</Card.Title>
             <Card.Text>
-                Clone de l'application mobile snapchat fait en <b>React native</b>, possiblité de prendre et d'envoyer des photo prise en direct ou de la pélicule.
+                Clone de l'application mobile snapchat fait en <b>React native</b>, possiblité de prendre et d'envoyer des photos prises en direct ou à partir de la pellicule.
             </Card.Text>
             <Button variant="outline-success">Github</Button>
             </Card.Body>
@@ -63,7 +63,7 @@ const projet =
             <Card.Body>
             <Card.Title>My Meetic</Card.Title>
             <Card.Text>
-                Application de rencontre selon les loisirs et la ville, développé en <b>PHP</b> et gestion de la base de données avec <b>MySQL</b>.
+                Application de rencontre selon les loisirs et la ville, développée en <b>PHP</b> et <b>MySQL</b>.
             </Card.Text>
             <Button variant="outline-success">Github</Button>
             </Card.Body>
@@ -79,7 +79,7 @@ const projet =
             <Card.Body>
             <Card.Title>Quizz</Card.Title>
             <Card.Text>
-                Un jeu de quizz par categorie avec possiblilité de crer son espace personnel et de nouveaux quizz, application développé avec <b>Simfony</b>.
+                Un jeu de quizz par categorie avec possiblilité de créer son espace personnel et de nouveaux quizz, application développée avec <b>Simfony</b>.
             </Card.Text>
             <Button variant="outline-success">Github</Button>
             </Card.Body>
