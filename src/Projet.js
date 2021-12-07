@@ -28,7 +28,7 @@ const projet =
             <Card.Text>
                 Le jeux puissance4 codé en <b>javaScript</b> et <b>jQuery</b>, accessible à partir d'un plugin avec option.
             </Card.Text>
-            <Button variant="outline-success">Github</Button>
+            <a href="https://github.com/nasratieR/puissance4" target="_blank"><Button variant="outline-success">Github</Button></a>
             </Card.Body>
             </Card>
             </div>
@@ -45,7 +45,7 @@ const projet =
             <Card.Text>
                 Clone de l'application mobile snapchat fait en <b>React native</b>, possiblité de prendre et d'envoyer des photos prises en direct ou à partir de la pellicule.
             </Card.Text>
-            <Button variant="outline-success">Github</Button>
+            <a href="https://github.com/nasratieR/my_snapchat" target="_blank"><Button variant="outline-success">Github</Button></a>
             </Card.Body>
             </Card>
             </div>
@@ -65,7 +65,8 @@ const projet =
             <Card.Text>
                 Application de rencontre selon les loisirs et la ville, développée en <b>PHP</b> et <b>MySQL</b>.
             </Card.Text>
-            <Button variant="outline-success">Github</Button>
+            <a href="https://github.com/nasratieR" target="_blank"><Button variant="outline-success">Github</Button></a>
+
             </Card.Body>
             </Card>
             </div>
@@ -81,7 +82,8 @@ const projet =
             <Card.Text>
                 Un jeu de quizz par categorie avec possiblilité de créer son espace personnel et de nouveaux quizz, application développée avec <b>Simfony</b>.
             </Card.Text>
-            <Button variant="outline-success">Github</Button>
+            <a href="https://github.com/nasratieR" target="_blank"><Button variant="outline-success">Github</Button></a>
+
             </Card.Body>
             </Card>
             </div>

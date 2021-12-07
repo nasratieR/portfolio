@@ -67,7 +67,7 @@ const about =
             <a href="https://www.linkedin.com/in/nasratie-rafion" target="_blank"><Tada><Button variant="outline-primary">Linkedin</Button> </Tada></a>
             </Col>
             <Col>
-            <a href="https://github.com" target="_blank"><Tada><Button variant="outline-success">Github</Button> </Tada></a>
+            <a href="https://github.com/nasratieR" target="_blank"><Tada><Button variant="outline-success">Github</Button> </Tada></a>
             </Col>
         </Row>
     </Fade> 
